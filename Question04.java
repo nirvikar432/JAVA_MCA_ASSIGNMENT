@@ -3,9 +3,7 @@
 public class Question04 {
 
     public static void main(String[] args) {
-        int val1 = 20;
-        int val2 = 30;
-        int val3 = 40;
+        int val1 = 20, val2 = 30, val3 = 40;
         System.out.println("Largest number is " + largest(val1, val2, val3));
     }
 
