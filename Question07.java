@@ -19,7 +19,7 @@ class OpOverload {
     }
 }
 
-public class Question7 {
+public class Question07 {
     public static void main(String[] args) {
         OpOverload op1 = new OpOverload(20);
         System.out.println("Original Value");
